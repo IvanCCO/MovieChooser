@@ -1,9 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T21:27:31.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.3" etag="XKr-KN7Ozf3Ke7fNCnLi" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T21:39:29.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="nugb3cESKFODeIdK3I7f" version="23.1.3" type="github">
   <diagram name="Page-1" id="z3uIDyGecTTQ6y1Qb607">
-    <mxGraphModel>
+    <mxGraphModel dx="1195" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cnTBpwzU_P2CvcH9niUu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cnTBpwzU_P2CvcH9niUu-4" target="cnTBpwzU_P2CvcH9niUu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnTBpwzU_P2CvcH9niUu-4" value="&lt;div&gt;User&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="399" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnTBpwzU_P2CvcH9niUu-5" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.whatsapp;fillColor=#00E676;strokeColor=#dddddd" vertex="1" parent="1">
+          <mxGeometry x="390.40000000000003" y="270" width="47.2" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="cnTBpwzU_P2CvcH9niUu-6" value="Quero escolher um filme ou série com filtros" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnTBpwzU_P2CvcH9niUu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cnTBpwzU_P2CvcH9niUu-10" target="cnTBpwzU_P2CvcH9niUu-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cnTBpwzU_P2CvcH9niUu-10" value="Mostra as opções de Filtro encadeadas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="120" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="cnTBpwzU_P2CvcH9niUu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cnTBpwzU_P2CvcH9niUu-11" target="cnTBpwzU_P2CvcH9niUu-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnTBpwzU_P2CvcH9niUu-11" value="&lt;div&gt;Filme ou série?&lt;/div&gt;&lt;div&gt;default (ambos)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnTBpwzU_P2CvcH9niUu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cnTBpwzU_P2CvcH9niUu-13" target="cnTBpwzU_P2CvcH9niUu-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnTBpwzU_P2CvcH9niUu-13" value="&lt;div&gt;Que gênero?&lt;/div&gt;&lt;div&gt;Listagem de gêneros&lt;/div&gt;&lt;div&gt;default(todos)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="290" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cnTBpwzU_P2CvcH9niUu-16" value="&lt;div&gt;A partir de quando?&lt;/div&gt;&lt;div&gt;default(2026)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="400" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
